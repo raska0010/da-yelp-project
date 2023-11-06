@@ -161,4 +161,7 @@ cython_debug/
 
 # Data
 data/
-data/
+
+# Private notebooks
+playground_raska.ipynb
+test_attr.ipynb
